@@ -7,6 +7,15 @@
 			<section class="ftco-section-2">
 				<div class="photograhy">
 					<div class="row no-gutters">
+					<div class="col-md-4 ftco-animate">
+							<a href="mirror-videos.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_6.jpg);">
+								<div class="overlay"></div>
+								<div class="text text-center">
+									<h3>Videos</h3>
+									<!-- <span class="tag">Model</span> -->
+								</div>
+							</a>
+						</div>
 						<div class="col-md-4 ftco-animate">
 							<a href="mirror-2019.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_1.jpg);">
 								<div class="overlay"></div>
@@ -48,15 +57,6 @@
 								<div class="overlay"></div>
 								<div class="text text-center">
 									<h3>2015</h3>
-									<!-- <span class="tag">Travel</span> -->
-								</div>
-							</a>
-						</div>
-						<div class="col-md-4 ftco-animate">
-							<a href="images/image_6.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(images/image_6.jpg);">
-								<div class="overlay"></div>
-								<div class="text text-center">
-									<h3>2014</h3>
 									<!-- <span class="tag">Travel</span> -->
 								</div>
 							</a>

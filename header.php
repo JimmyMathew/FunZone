@@ -36,10 +36,10 @@
   <script src="js/jquery.stellar.min.js"></script>
   <script src="js/owl.carousel.min.js"></script>
   <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/aos.js"></script>
+  <!-- <script src="js/aos.js"></script> -->
   <script src="js/jquery.animateNumber.min.js"></script>
   <script src="js/bootstrap-datepicker.js"></script>
-  <script src="js/jquery.timepicker.min.js"></script>
+  <!-- <script src="js/jquery.timepicker.min.js"></script> -->
   <script src="js/scrollax.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
@@ -50,6 +50,19 @@
       <link href="./plugins/ninja/thumbs.css" rel="stylesheet" type="text/css" />
       <script src="./plugins/ninja/ninjaVideoPlugin.js"></script>
       <script src="./plugins/ninja/ninja-slider.js" type="text/javascript"></script>
+
+      <style>
+        	.ftco-section {
+    padding: 0.5em 1.8em;
+    position: relative;
+}
+    .ftco-bread .breadcrumbs span a {
+        color: #000;
+    }
+    .current-bread-crumb{
+      background-color: #f67e7d;
+    }
+        </style>
   </head>
   <body>
 
