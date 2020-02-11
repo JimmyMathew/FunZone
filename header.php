@@ -44,19 +44,24 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
-    
+	
+  <!-- Video Slider -->
+  	<link href="./plugins/ninja/ninja-slider.css" rel="stylesheet" type="text/css" />
+      <link href="./plugins/ninja/thumbs.css" rel="stylesheet" type="text/css" />
+      <script src="./plugins/ninja/ninjaVideoPlugin.js"></script>
+      <script src="./plugins/ninja/ninja-slider.js" type="text/javascript"></script>
   </head>
   <body>
 
 	<div id="colorlib-page">
 		<aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
-			<h1 id="colorlib-logo"><a href="index.php"><span class="flaticon-camera"></span>Capture</a></h1>
+			<h1 id="colorlib-logo"><a href="index.php"><span class="flaticon-camera"></span>Fun Zone</a></h1>
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
 					<li class="colorlib-active"><a href="index.php">Home</a></li>
-					<li><a href="gallery.php">Gallery</a></li>
+					<!-- <li><a href="gallery.php">Gallery</a></li> -->
 					<li><a href="about.php">About</a></li>
-					<li><a href="blog.php">Blog</a></li>
+					<li><a href="blog.php">Clients</a></li>
 					<li><a href="contact.php">Contact</a></li>
 				</ul>
 			</nav>

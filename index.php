@@ -8,60 +8,60 @@
 				<div class="photograhy">
 					<div class="row no-gutters">
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_1.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(images/image_1.jpg);">
+							<a href="mirror-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_1.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
-									<h3>Work 01</h3>
-									<span class="tag">Model</span>
+									<h3>Mirror Booth</h3>
+									<!-- <span class="tag">Model</span> -->
 								</div>
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_2.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(images/image_2.jpg);">
+							<a href="images/image_2.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_2.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
-									<h3>Work 02</h3>
-									<span class="tag">Nature</span>
+									<h3>AR Booth</h3>
+									<!-- <span class="tag">Nature</span> -->
 								</div>
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_3.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(images/image_3.jpg);">
+							<a href="images/image_3.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_3.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
-									<h3>Work 03</h3>
-									<span class="tag">Fashion</span>
+									<h3>Photo Booth</h3>
+									<!-- <span class="tag">Fashion</span> -->
 								</div>
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_4.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(images/image_4.jpg);">
+							<a href="images/image_4.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_4.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
-									<h3>Work 04</h3>
-									<span class="tag">Travel</span>
+									<h3>Carnival Games</h3>
+									<!-- <span class="tag">Travel</span> -->
 								</div>
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_5.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(images/image_5.jpg);">
+							<a href="images/image_5.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_5.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
-									<h3>Work 05</h3>
-									<span class="tag">Travel</span>
+									<h3>Walkie Talkie</h3>
+									<!-- <span class="tag">Travel</span> -->
 								</div>
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_6.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(images/image_6.jpg);">
+							<a href="images/image_6.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_6.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
-									<h3>Work 06</h3>
-									<span class="tag">Travel</span>
+									<h3>Birthday Parties</h3>
+									<!-- <span class="tag">Travel</span> -->
 								</div>
 							</a>
 						</div>
-						<div class="col-md-4 ftco-animate">
+						<!-- <div class="col-md-4 ftco-animate">
 							<a href="images/image_7.jpg" class="photography-entry img image-popup d-flex justify-content-center align-items-center" style="background-image: url(images/image_7.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
@@ -114,7 +114,7 @@
 									<span class="tag">Photography</span>
 								</div>
 							</a>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</section>
