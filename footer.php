@@ -1,6 +1,6 @@
-<footer class="ftco-footer ftco-bg-dark ftco-section">
-	      <div class="container px-md-5">
-	        <div class="row mb-5">
+<footer class="ftco-footer ftco-bg-dark ftco-section" style="padding: 1.5em 1.8em;">
+	      <!-- <div class="container px-md-5"> -->
+	        <!-- <div class="row mb-5">
 	          <div class="col-md">
 	            <div class="ftco-footer-widget mb-4 ml-md-4">
 	              <h2 class="ftco-heading-2">Category</h2>
@@ -36,8 +36,8 @@
 		            </div>
 	            </div>
 	          </div>
-	        </div>
-	        <div class="row">
+	        </div> -->
+	        <div class="row" style="padding-top: 15px;">
 	          <div class="col-md-12">
 
 	            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
@@ -45,7 +45,7 @@
 	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
 	          </div>
 	        </div>
-	      </div>
+	      <!-- </div> -->
 		</footer>
 		</div>
 			<!-- End Main -->
