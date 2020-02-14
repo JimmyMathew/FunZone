@@ -6,9 +6,9 @@
 				<div class="container">
 					<div class="row no-gutters slider-text align-items-center">
 	          <div class="col-md-9 ftco-animate">
-	            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home</a></span> <span>About</span></p>
+	            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home</a></span> <span>About</span></p>
 	            <h1 class="mb-3 bread">About Us</h1>
-	            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	            <p>We are into this Event Field for a good few years and our dedication and involvement in the things we indulge make us to stand out.</p>
 	          </div>
 	        </div>
 				</div>
@@ -22,13 +22,15 @@
 						</div>
 						<div class="author-info text p-4 mt-5 mb-5 ftco-animate">
 							<div class="desc">
-								<h1 class="mb-4">Capture Photography Agency</h1>
-								<p class="mb-4">Photography Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-								<ul class="mb-4">
+								<h1 class="mb-4">Who We Are</h1>
+								<!-- <p class="mb-4">We are into this Event Field for a good few years and our dedication and involvement in the things we indulge make us to stand out.</p> -->
+								<p class="mb-4">At Funzone Chennai we are passionate in introducing various new genre in the event industry. Credit goes to our team members, who are passionate and give their ultimate best to bring out the best in each and every event.</p>
+								<p class="mb-4">Our firm is also dedicated to educating our customers on the facets of getting a complete custom event at an affordable cost. Key management is driven by a team of highly experienced hard-core professionals who have enriched us with foreseeable vision and trade expertise.</p>
+								<!-- <ul class="mb-4">
 									<li>Even the all-powerful Pointing has no control about the blind texts</li>
 									<li>One day however a small line of blind text by the name of Lorem Ipsum decided</li>
 									<li>The Big Oxmox advised her not to do so, because there were thousands</li>
-								</ul>
+								</ul> -->
 								<ul class="ftco-social mt-3">
 		              <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		              <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>

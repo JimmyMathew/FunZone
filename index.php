@@ -17,7 +17,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_2.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_2.jpg);">
+							<a href="ar-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_2.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
 									<h3>AR Booth</h3>
@@ -26,7 +26,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_3.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_3.jpg);">
+							<a href="photo-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_3.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
 									<h3>Photo Booth</h3>
@@ -35,7 +35,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_4.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_4.jpg);">
+							<a href="carnival-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_4.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
 									<h3>Carnival Games</h3>
@@ -44,7 +44,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_5.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_5.jpg);">
+							<a href="walkie-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_5.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
 									<h3>Walkie Talkie</h3>
@@ -53,7 +53,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 ftco-animate">
-							<a href="images/image_6.jpg" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_6.jpg);">
+							<a href="birth-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/image_6.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
 									<h3>Birthday Parties</h3>

@@ -6,9 +6,9 @@
 				<div class="container">
 					<div class="row no-gutters slider-text align-items-center">
 	          <div class="col-md-9 ftco-animate">
-	            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home</a></span> <span>Contact Us</span></p>
+	            <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home</a></span> <span>Contact Us</span></p>
 	            <h1 class="mb-3 bread">Contact Us</h1>
-	            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+	            <p>Please do contact us for our services which makes your event a remarkable and cherishable one!.</p>
 	          </div>
 	        </div>
 				</div>
@@ -22,24 +22,32 @@
 	          <div class="w-100"></div>
 	          <div class="col-md-3 d-flex">
 	          	<div class="info bg-light p-4">
-		            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+					<p><span>Address:</span><br/> <a target="_blank" href="http://maps.google.com/?q=No:/C,Old No:8C,144/21,Taylors Rd,Kilpauk,Chennai - 600010">Funzonechennai, <br/>No:/C, Old No:8C,144/21, Taylors Rd, Kilpauk,
+Chennai - 600010</a></p>
+					
 		          </div>
 	          </div>
 	          <div class="col-md-3 d-flex">
 	          	<div class="info bg-light p-4">
-		            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+		            <p><span>Phone:</span><br/> <span>M H Mohamed Gani: </span><a href="tel://+919841519595">+919841519595</a> <br/> <span>M Janakiraman: </span><a href="tel://+919841519595">+919841519595</a></p>
 		          </div>
 	          </div>
 	          <div class="col-md-3 d-flex">
 	          	<div class="info bg-light p-4">
-		            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+					<p>
+						<span>Email:</span><br/> 
+						<a target="_blank" href="mailto:info@funzonechennai.com">info@funzonechennai.com </a><br/>
+						<a target="_blank" href="mailto:gani@funzonechennai.com">gani@funzonechennai.com </a><br/>
+						<a target="_blank" href="mailto:jana@funzonechennai.com">jana@funzonechennai.com</a><br/>
+				
+				</p>
 		          </div>
 	          </div>
-	          <div class="col-md-3 d-flex">
+	          <!-- <div class="col-md-3 d-flex">
 	          	<div class="info bg-light p-4">
 		            <p><span>Website</span> <a href="#">yoursite.com</a></p>
 		          </div>
-	          </div>
+	          </div> -->
 	        </div>
 	        <div class="row block-9">
 	          <div class="col-md-6 order-md-last d-flex">
