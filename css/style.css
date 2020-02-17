@@ -7348,8 +7348,12 @@ h1, h2, h3, h4, h5,
       transform: translateX(-270px);
       padding-top: 2em;
       background: rgba(0, 0, 0, 0.04); } }
+      .logo{
+        width:200px;
+      }
   #colorlib-aside #colorlib-logo {
-    margin-bottom: 2.5em;
+    
+    margin-bottom: 0.5em;
     display: block;
     width: 100%;
     font-weight: 700;

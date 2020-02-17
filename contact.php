@@ -22,8 +22,18 @@
 	          <div class="w-100"></div>
 	          <div class="col-md-3 d-flex">
 	          	<div class="info bg-light p-4">
-					<p><span>Address:</span><br/> <a target="_blank" href="http://maps.google.com/?q=No:/C,Old No:8C,144/21,Taylors Rd,Kilpauk,Chennai - 600010">Funzonechennai, <br/>No:/C, Old No:8C,144/21, Taylors Rd, Kilpauk,
-Chennai - 600010</a></p>
+					<p><span>Head Office:</span><br/> <a target="_blank" href="http://maps.google.com/?q=FunzoneChennai,Old No.21/c,New No.21/8c,B-Block,1st Floor,Taylor’s Road,Kilpauk,Chennai - 600 010">Funzone Chennai , 
+					<br/>Old No.21/c, New No. 21/8c, B-Block, 1st Floor,<br/> Taylor’s Road, Kilpauk, <br/>Chennai - 6000 10</a></p>
+					
+		          </div>
+			  </div>
+			  <div class="col-md-3 d-flex">
+	          	<div class="info bg-light p-4">
+					<p><span>Branch Office:</span><br/> <a target="_blank" href="http://maps.google.com/?q=FunzoneChennai No.250A,1st Floor,Poonamalle High Road,Aminjikarai ,Chennai - 600 029">
+					Funzone Chennai,<br/>No.250A, 1st Floor, <br/> 
+					Poonamalle High Road<br/>
+					Aminjikarai,<br/>
+					Chennai - 600 029</a></p>
 					
 		          </div>
 	          </div>
@@ -72,7 +82,8 @@ Chennai - 600010</a></p>
 	          </div>
 
 	          <div class="col-md-6 d-flex">
-	          	<div id="map" class="bg-light"></div>
+				  <!-- <div id="map" class="bg-light"></div> -->
+				  <div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Funzone%20Chennai%20%2COld%20No.21%2Fc%2C%20New%20No.%2021%2F8c%2C%20B-Block%2C%201st%20Floor%2CTaylor%E2%80%99s%20Road%2C%20Kilpauk%2CChennai%20-%20600%20010&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.embedgooglemap.net">embedgooglemap.net</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:400px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
 	          </div>
 	        </div>
 	      </div>

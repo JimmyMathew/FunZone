@@ -68,10 +68,11 @@
 
 	<div id="colorlib-page">
 		<aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
-			<h1 id="colorlib-logo"><a href="index.php"><span class="flaticon-camera"></span>Fun Zone</a></h1>
+
+			<h1 id="colorlib-logo"><a href="index.php"><img src="images/logo.png" class="logo" alt="logo"></a></h1>
 			<nav id="colorlib-main-menu" role="navigation">
 				<ul>
-					<li class="colorlib-active"><a href="index.php">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 					<!-- <li><a href="gallery.php">Gallery</a></li> -->
 					<li><a href="about.php">About</a></li>
 					<li><a href="blog.php">Clients</a></li>
