@@ -39,7 +39,12 @@
 	          </div>
 	          <div class="col-md-3 d-flex">
 	          	<div class="info bg-light p-4">
-		            <p><span>Phone:</span><br/> <span>M H Mohamed Gani: </span><a href="tel://+919841519595">+919841519595</a> <br/> <span>M Janakiraman: </span><a href="tel://+919841519595">+919841519595</a></p>
+		            <p>
+					<span>Phone:</span><br/> 
+					<span>M Janakiraman: </span><a href="tel://+919841519595">+919841519595</a><br/> 
+					<span>M H Mohamed Gani: </span><a href="tel://+919841519595">+919841519595</a> 
+					
+				</p>
 		          </div>
 	          </div>
 	          <div class="col-md-3 d-flex">

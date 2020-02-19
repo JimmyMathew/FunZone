@@ -8146,7 +8146,10 @@ textarea.form-control {
         color: #000000; }
       .ftco-social li a:hover {
         color: #fff; }
-
+    .client-image{
+      width: 140px;
+        height: 80px;
+    }
 #map {
   width: 100%; }
   @media (max-width: 991.98px) {
