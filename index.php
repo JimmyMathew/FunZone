@@ -16,7 +16,7 @@
 								</div>
 							</a>
 						</div>
-						<div class="col-md-4 ftco-animate">
+						<div class="col-md-4 col-sm-4 ftco-animate">
 							<a href="ar-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/gallery/ar/thumb.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
@@ -25,7 +25,7 @@
 								</div>
 							</a>
 						</div>
-						<div class="col-md-4 ftco-animate">
+						<div class="col-md-4 col-sm-4 ftco-animate">
 							<a href="photo-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/gallery/photo/thumb.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
@@ -34,7 +34,7 @@
 								</div>
 							</a>
 						</div>
-						<div class="col-md-4 ftco-animate">
+						<div class="col-md-4 col-sm-4 ftco-animate">
 							<a href="carnival-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/gallery/carnival/thumb.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
@@ -43,7 +43,7 @@
 								</div>
 							</a>
 						</div>
-						<div class="col-md-4 ftco-animate">
+						<div class="col-md-4 col-sm-4 ftco-animate">
 							<a href="walkie-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/gallery/walkie/thumb.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
@@ -52,7 +52,7 @@
 								</div>
 							</a>
 						</div>
-						<div class="col-md-4 ftco-animate">
+						<div class="col-md-4 col-sm-4 ftco-animate">
 							<a href="birth-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/gallery/birthday/thumb.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">

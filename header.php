@@ -67,6 +67,7 @@
   <body>
 
 	<div id="colorlib-page">
+  <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
 		<aside id="colorlib-aside" role="complementary" class="js-fullheight text-center">
 
 			<h1 id="colorlib-logo"><a href="index.php"><img src="images/logo.png" class="logo" alt="logo"></a></h1>

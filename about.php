@@ -46,10 +46,74 @@
 	    		<div class="row">
 						<div class="col-md-6 col-lg-3 ftco-animate">
 							<div class="staff">
-								<div class="img" style="background-image: url(images/person_1.jpg);"></div>
+								<div class="img" style="background-image: url(images/about/sakthi.jpg);"></div>
 								<div class="text pt-4">
-									<h3><a href="#">Edward Howard</a></h3>
-									<span class="position mb-2">Founder, Photographer</span>
+									<h3><a href="#">Sakthi Vel</a></h3>
+									<span class="position mb-2">Founder</span>
+									<p>He is a Rebel when it comes to work, but a Gandhi  when its comes to off work .Yeahhh...He is a Rare combo of character you will come across.</p>
+									<ul class="ftco-social-icon d-flex">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-3 ftco-animate">
+							<div class="staff">
+								<div class="img" style="background-image: url(images/about/jana.jpg);"></div>
+								<div class="text pt-4">
+									<h3><a href="#">Janakiraman</a></h3>
+									<span class="position mb-2">Managing Partner</span>
+									<p> His sincerity towards the company and his employees is his speciality and ohhh yesss Never dare to keep a bet because you don't know his unquenchable thirst to win.</p>
+									<ul class="ftco-social-icon d-flex">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-3 ftco-animate">
+							<div class="staff">
+								<div class="img" style="background-image: url(images/about/gani.jpg);"></div>
+								<div class="text pt-4">
+									<h3><a href="#">Mohamed Gani</a></h3>
+									<span class="position mb-2">Managing Partner</span>
+									<p>  A person with peaceful mind and calm soul. His attitude of facing any kind of obstacle with a smile is always a best motivation to us.</p>
+									<ul class="ftco-social-icon d-flex">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-3 ftco-animate">
+							<div class="staff">
+								<div class="img" style="background-image: url(images/about/godwin.jpg);"></div>
+								<div class="text pt-4">
+									<h3><a href="#">Godwin Siromony</a></h3>
+									<span class="position mb-2">Managing Partner</span>
+									<p>He is a single man army, but also a person who will clear all kind of your silly doubts. He always makes sure to pass on his learnings to us.</p>
+									<ul class="ftco-social-icon d-flex">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6 col-lg-3 ftco-animate">
+							<div class="staff">
+								<div class="img" style="background-image: url(images/about/karthick.jpg);"></div>
+								<div class="text pt-4">
+									<h3><a href="#">Karthick</a></h3>
+									<span class="position mb-2">Graphic Designer</span>
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 									<ul class="ftco-social-icon d-flex">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
@@ -62,41 +126,9 @@
 						</div>
 						<div class="col-md-6 col-lg-3 ftco-animate">
 							<div class="staff">
-								<div class="img" style="background-image: url(images/person_2.jpg);"></div>
+								<div class="img" style="background-image: url(images/about/vicky.jpg);"></div>
 								<div class="text pt-4">
-									<h3><a href="#">Simon Will</a></h3>
-									<span class="position mb-2">Photo Specialists</span>
-									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-									<ul class="ftco-social-icon d-flex">
-		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-		              </ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6 col-lg-3 ftco-animate">
-							<div class="staff">
-								<div class="img" style="background-image: url(images/person_3.jpg);"></div>
-								<div class="text pt-4">
-									<h3><a href="#">Brian Adam</a></h3>
-									<span class="position mb-2">Photographer</span>
-									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
-									<ul class="ftco-social-icon d-flex">
-		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-		              </ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6 col-lg-3 ftco-animate">
-							<div class="staff">
-								<div class="img" style="background-image: url(images/person_4.jpg);"></div>
-								<div class="text pt-4">
-									<h3><a href="#">Edward Howard</a></h3>
+									<h3><a href="#">Vicky</a></h3>
 									<span class="position mb-2">Graphic Designer</span>
 									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
 									<ul class="ftco-social-icon d-flex">
