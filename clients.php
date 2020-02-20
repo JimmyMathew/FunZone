@@ -67,8 +67,9 @@
 			  <img src="images/clients/14.png" class="client-image" alt="1"/>
 			  </div>
 			  <div class="col-md-4 d-flex">
-			  <img src="images/clients/15.png" style="width: 250px;" class="client-image" alt="1"/>
+			  <img src="images/clients/18.png"  class="client-image" style="width: 100px;"  alt="1"/>
 			  </div>
+			
 			</div>
 			<div class="row d-flex mb-5 contact-info">
 	          <div class="col-md-4 d-flex">
@@ -77,7 +78,9 @@
 			  <div class="col-md-4 d-flex">
 			  <img src="images/clients/17.png"  class="client-image" alt="1"/>
 			  </div>
-			
+			  <div class="col-md-4 d-flex">
+			  <img src="images/clients/15.png" style="width: 250px;" class="client-image" alt="1"/>
+			  </div>
 			</div>
 			
 	      </div>
