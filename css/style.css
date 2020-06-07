@@ -7637,11 +7637,14 @@ h1, h2, h3, h4, h5,
       font-weight: 400;
       color: #b3b3b3;
       border-bottom: 2px solid #b3b3b3; }
-      .HomePhotography .photography-entry{
+     
+      @media screen and (min-width: 480px) {
+        .HomePhotography .photography-entry{
         height: 425px;
       }
+    }
 .photography-entry {
-  height: 280px;
+  height: auto;
   display: block;
   z-index: 0;
   position: relative; }

@@ -17,7 +17,7 @@
 				<div class="hero-wrap">
 					<div class="overlay"></div>
 					<div class="d-flex">
-						<div class="author-image text img p-md-5 ftco-animate" style="background-image: url(images/author.jpg);">
+						<div class="author-image text img p-md-5 ftco-animate" style="background-image: url(images/about/about.jpg);">
 							
 						</div>
 						<div class="author-info text p-4 mt-5 mb-5 ftco-animate">
@@ -62,11 +62,11 @@
 						</div>
 						<div class="col-md-6 col-lg-3 ftco-animate">
 							<div class="staff">
-								<div class="img" style="background-image: url(images/about/jana.jpg);"></div>
+								<div class="img" style="background-image: url(images/about/godwin.jpg);"></div>
 								<div class="text pt-4">
-									<h3><a href="#">Janakiraman</a></h3>
+									<h3><a href="#">Godwin Siromony</a></h3>
 									<span class="position mb-2">Managing Partner</span>
-									<p> His sincerity towards the company and his employees is his speciality and ohhh yesss Never dare to keep a bet because you don't know his unquenchable thirst to win.</p>
+									<p>He is a single man army, but also a person who will clear all kind of your silly doubts. He always makes sure to pass on his learnings to us.</p>
 									<ul class="ftco-social-icon d-flex">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -94,27 +94,11 @@
 						</div>
 						<div class="col-md-6 col-lg-3 ftco-animate">
 							<div class="staff">
-								<div class="img" style="background-image: url(images/about/godwin.jpg);"></div>
+								<div class="img" style="background-image: url(images/about/jana.jpg);"></div>
 								<div class="text pt-4">
-									<h3><a href="#">Godwin Siromony</a></h3>
+									<h3><a href="#">Janakiraman</a></h3>
 									<span class="position mb-2">Managing Partner</span>
-									<p>He is a single man army, but also a person who will clear all kind of your silly doubts. He always makes sure to pass on his learnings to us.</p>
-									<ul class="ftco-social-icon d-flex">
-		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
-		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-		              </ul>
-								</div>
-							</div>
-						</div>
-						<div class="col-md-6 col-lg-3 ftco-animate">
-							<div class="staff">
-								<div class="img" style="background-image: url(images/about/karthick.jpg);"></div>
-								<div class="text pt-4">
-									<h3><a href="#">Karthick</a></h3>
-									<span class="position mb-2">Graphic Designer</span>
-									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<p> His sincerity towards the company and his employees is his speciality and ohhh yesss Never dare to keep a bet because you don't know his unquenchable thirst to win.</p>
 									<ul class="ftco-social-icon d-flex">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -129,8 +113,8 @@
 								<div class="img" style="background-image: url(images/about/vicky.jpg);"></div>
 								<div class="text pt-4">
 									<h3><a href="#">Vicky</a></h3>
-									<span class="position mb-2">Graphic Designer</span>
-									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<!-- <span class="position mb-2">Graphic Designer</span> -->
+									<p> He is one of the young pillar to the company.He looks silent but he is not, he looks serious but he is not, He looks responsible ahmmm?? yes that he is when it comes to work.</p>
 									<ul class="ftco-social-icon d-flex">
 		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
 		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -140,6 +124,24 @@
 								</div>
 							</div>
 						</div>
+					
+						<div class="col-md-6 col-lg-3 ftco-animate">
+							<div class="staff">
+								<div class="img" style="background-image: url(images/about/karthick.jpg);"></div>
+								<div class="text pt-4">
+									<h3><a href="#">Karthick</a></h3>
+									<!-- <span class="position mb-2">Graphic Designer</span> -->
+									<p>He is another young pillar to the company . He runs to any corner for the company,but only start arguing if you are ready to end up confused.</p>
+									<ul class="ftco-social-icon d-flex">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+								</div>
+							</div>
+						</div>
+						
 					</div>
 	    	</div>
 	    </section>

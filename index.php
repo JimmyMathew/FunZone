@@ -8,7 +8,7 @@
 				<div class="photograhy HomePhotography" >
 					<div class="row no-gutters">
 						<div class="col-md-4 ftco-animate">
-							<a href="mirror-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/gallery/mirror/thumb.jpg);">
+							<a href="mirror-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/gallery/mirror/thumb.jpg); background-size: cover;">
 								<div class="overlay"></div>
 								<div class="text text-center">
 									<h3>Mirror Booth</h3>
@@ -17,7 +17,7 @@
 							</a>
 						</div>
 						<div class="col-md-4 col-sm-4 ftco-animate">
-							<a href="ar-year.php" class="photography-entry img  d-flex justify-content-center align-items-center" style="background-image: url(images/gallery/ar/thumb.jpg);">
+							<a href="ar-year.php" class="photography-entry img  d-flex justify-content-center align-items-center img-responsive" style="background-image: url(images/gallery/ar/thumb.jpg);">
 								<div class="overlay"></div>
 								<div class="text text-center">
 									<h3>AR Booth</h3>
